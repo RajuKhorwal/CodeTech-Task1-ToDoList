@@ -13,7 +13,7 @@ Objective: The objective of this project is to create a web application for a To
 - Deleting a ToDo: We can delete a task from the list which we do not want to perform further.
 - Edit a ToDo Name: We can edit the name of a To-Do from the list of tasks.
 - Marking a ToDo: We can check a corresponding checkbox of a To-Do which we have completed.
-- 
+ 
 Technologies Used:
 - Languages: Primary languages include HTML, CSS, and JavaScript.
 - Functionality: The functionality of React and Tailwind has also been used.
