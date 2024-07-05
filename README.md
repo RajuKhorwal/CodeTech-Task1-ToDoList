@@ -1,12 +1,12 @@
 * Name: Khorwal Raju
-Company: CODETECH IT SOLUTIONS
-ID: CT08DS1805
-Domain: Web Development
-Duration: June to July 2024
+* Company: CODETECH IT SOLUTIONS
+* ID: CT08DS1805
+* Domain: Web Development
+* Duration: June to July 2024
 
 # Overview of Project:
-Project: To-Do-List Web Application
-Objective: The objective of this project is to create a web application for a To-Do List. The aim of creating this application is to list all the tasks which we want to perform within a limited time.
+* Project: To-Do-List Web Application
+* Objective: The objective of this project is to create a web application for a To-Do List. The aim of creating this application is to list all the tasks which we want to perform within a limited time.
 
 # Key Activities:
 - Adding a ToDo: We can add a task to the existing list.
