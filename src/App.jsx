@@ -5,7 +5,6 @@ import Navbar from './components/Navbar'
 import { v4 as uuidv4 } from 'uuid';
 import { FaEdit } from "react-icons/fa";
 import { AiTwotoneDelete } from "react-icons/ai";
-// import './App.css'
 
 function App() {
   const [todo, setTodo] = useState("")
